@@ -267,10 +267,10 @@
           "autoUpgradeMinorVersion": true,
           "settings": {
             "fileUris": [
-              " 
+              "https://raw.githubusercontent.com/singhsupriya2819/Git_on_vm/main/git_install.ps1"
 
             ],
-            "commandToExecute": "powershell.exe -ExecutionPolicy Unrestricted -File Customscript.ps1"
+            "commandToExecute": "powershell.exe -ExecutionPolicy Unrestricted -File git_install.ps1"
           }
         }
       }
